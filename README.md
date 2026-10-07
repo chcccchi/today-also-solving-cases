@@ -7,6 +7,11 @@
 **[查看在线作品主页](https://chcccchi.github.io/today-also-solving-cases/)**  
 包含玩法演示视频、核心界面截图与项目作品集。
 
+## 试玩下载
+
+**[下载 Windows 试玩版 v1.2](https://github.com/chcccchi/today-also-solving-cases/releases/tag/v1.2)**  
+进入发布页后，在 `Assets` 中下载 `default.exe`，双击即可启动。首次启动将从开场教学进入游戏。
+
 ## 项目概况
 
 - **开发引擎：** Godot 4
