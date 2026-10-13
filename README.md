@@ -14,8 +14,8 @@
 ## 试玩下载
 
 
-**[下载 Windows 试玩版 v1.2](https://github.com/chcccchi/today-also-solving-cases/releases/tag/v1.2)**  
-进入发布页后，在 `Assets` 中下载 `today-also-solving-cases_Windows_v1.2.zip`；解压后双击 `今天也在破案！试玩版.exe` 启动。首次启动会从开场教学进入游戏。
+**[下载 Windows 试玩版 v1.3](https://github.com/chcccchi/today-also-solving-cases/releases/tag/v1.3)**  
+进入发布页后，在 `Assets` 中下载“今天也在探案_已验证可运行.zip”；解压后保持 `TodayAlsoSolvingCases.exe` 与 `TodayAlsoSolvingCases.pck` 在同一文件夹，再双击 exe 启动。
 
 
 ## 项目概况
